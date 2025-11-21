@@ -12,7 +12,7 @@ I’m Alber Mendes. Coding since 2020. I’ve been a Fullstack Software Develope
 <br/>
 
 <div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:lumoltar@gmail.com">
     <img alt="Contact Me" src="https://img.shields.io/badge/CONTACT_ME-0a66c2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
